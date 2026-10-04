@@ -12,7 +12,7 @@ The analysis compares the frequency of unusually warm, unusually cold, high-prec
 
 > \*\*Interpretation note:\*\* This is a station-observation screening analysis, not a complete disaster-risk model. It does not measure population exposure, infrastructure vulnerability, event severity, or financial loss.
 
-📄 [View the One-Page Executive Summary](Documentation/US_Weather_Risk_Executive_Summary.pdf)
+📄 [View the One-Page Executive Summary](Documentation/US_Weather_Executive_Summary.pdf)
 
 ## Business Questions
 
