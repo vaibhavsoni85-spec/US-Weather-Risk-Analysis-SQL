@@ -1,4 +1,4 @@
-# U.S. Weather Risk Analysis
+# U.S. Weather SQL Analysis
 
 **Author:** Vaibhav Soni  
 **Tools:** Google BigQuery | Standard SQL  
@@ -11,6 +11,8 @@ This project analyzes daily weather-station observations across the 50 U.S. stat
 The analysis compares the frequency of unusually warm, unusually cold, high-precipitation, and high-wind observations. It also creates a combined high-condition exposure indicator to identify states that may require deeper preparedness analysis.
 
 > \*\*Interpretation note:\*\* This is a station-observation screening analysis, not a complete disaster-risk model. It does not measure population exposure, infrastructure vulnerability, event severity, or financial loss.
+
+📄 [View the One-Page Executive Summary](Documentation/US_Weather_Risk_Executive_Summary.pdf)
 
 ## Business Questions
 
